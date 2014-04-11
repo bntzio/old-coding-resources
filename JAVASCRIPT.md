@@ -22,8 +22,8 @@ Javascript
 * [Treehouse](www.teamtreehouse.com)
 
 ### Websites:
-* [How to Node](www.howtonode.org)
 * [Javascript is Sexy](http://javascriptissexy.com/) 
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/learn/javascript)
 
 Node.js
 -------
@@ -35,10 +35,11 @@ Node.js
 ##### Presencial:
 * [NodeSchool](http://nodeschool.io/)
 
-
 ##### Online:
 * [NodeSchool](http://nodeschool.io/)
-*
+
+### Websites:
+* [How to Node](www.howtonode.org)
 
 jQuery
 ------
