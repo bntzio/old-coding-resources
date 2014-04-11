@@ -35,6 +35,15 @@ Node.js
 * [The Node Beginner Book](http://www.nodebeginner.org/)
 * [Node.js In Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
 
+### Courses:
+##### Presencial:
+* [NodeSchool](http://nodeschool.io/)
+
+
+##### Online:
+* [NodeSchool](http://nodeschool.io/)
+*
+
 jQuery
 ------
 
@@ -67,17 +76,4 @@ Dart
 
 Asm.js
 ------
-
-
-
-### Courses:
-##### Presencial:
-* [NodeSchool](http://nodeschool.io/)
-
-
-##### Online:
-* [NodeSchool](http://nodeschool.io/)
-*
-
-
 
