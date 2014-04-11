@@ -11,6 +11,7 @@ Javascript
 * [Eloquent Javascript](http://eloquentjavascript.net/) by Marijin Haverbeke
 * [Learning Javascript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
 * [Rapid Prototyping with JS](http://rapidprototypingwithjs.com/#section-home)
+* [Professional Javascript for Web Developers](http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691/ref=cm_cr_pr_product_top) by Nicholas C. Zakas
 
 ### Courses:
 ##### Presencial:
