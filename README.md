@@ -1,4 +1,3 @@
-Resources
-=========
-Repositorio de Github en donde listo todos los recursos que me encuentro que podrían ser de utilidad a los desarrolladores de diferentes tecnologías, como libros, sitios web, cursos, etc.
+# Old coding resources
 
+Just some very old coding resources I found back in 2014.
